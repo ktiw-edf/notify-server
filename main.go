@@ -56,7 +56,7 @@ func main() {
             Body: "Yasss Queen",
             Data: map[string]string{"withSome": "data"},
             Sound: "default",
-            Title: "Memestream",
+            Title: "Expo App",
             Priority: expo.DefaultPriority,
         },
     )
